@@ -1,0 +1,54 @@
+
+
+body{
+    background-image: url(assets/topography.png);
+    padding: 20px 10%;
+    font-family: 'Courier New', Courier, monospace;
+    line-height: 1.5;
+    text-align: justify;
+}
+
+body header{
+    height: 120px;
+    background-color: #333333;
+    padding: 20px 100px 0px 50px;
+}
+
+#links{
+    text-align: right;
+    word-spacing: 30px;
+    color: #ff0099;
+}
+
+#logo{
+
+}
+
+h1{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;   
+}
+
+#separator{
+    margin: 40px 40%;
+    padding: 0 auto;
+    text-align: center;
+    letter-spacing: 25px;
+}
+
+#subtitle{
+    color: #ff0099
+}
+
+#terminology{
+    text-align: center;
+}
+
+dt{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+dd{
+
+}
